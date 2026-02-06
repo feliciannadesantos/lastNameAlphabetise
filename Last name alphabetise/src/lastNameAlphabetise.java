@@ -10,9 +10,9 @@ public static void chooseTheme() throws IOException
      {
 		
  Scanner names = new Scanner(new File("names"));
- while(names.hasNext()); {
+ while(names.hasNext()) {
  String lastname = names.nextLine();
 	}
- 
+ //master branch
 }
 }
